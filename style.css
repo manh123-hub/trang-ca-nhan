@@ -1,0 +1,21 @@
+body {
+  background-color: lightyellow;
+  color: darkblue;
+  font-family: arial;
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+h1 {
+  color: crimson;
+  text-align: center;
+}
+h2 {
+  color: teal;
+}
+img {
+  border: 4px solid gray;
+}
+a {
+  color: purple;
+}
