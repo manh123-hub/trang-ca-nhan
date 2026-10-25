@@ -32,3 +32,25 @@ a:hover {
 li {
   font-size: 18px;
 }
+nav {
+  display: flex;
+  gap: 20px;
+  background-color: teal;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav a:hover {
+  color: orange;
+}
+.hang {
+  display: flex;
+  gap: 20px;
+}
+.hang .khung {
+  flex: 1;
+}
